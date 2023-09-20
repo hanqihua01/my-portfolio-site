@@ -24,7 +24,7 @@ const imageAltText = "A photo of VU Amsterdam and University of Amsterdam";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a MSc Computer Science Student at Universiteit van Amsterdam (UvA) & Vrije Universiteit Amsterdam (VU Amsterdam), and also a CCF Certified Student Member.";
+  "I am a MSc Computer Science Student at Universiteit van Amsterdam (UvA) & Vrije Universiteit Amsterdam (VU Amsterdam), and I obtained my Bachelor's degree in Software Engineering from National University of Defense Technology in China.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
