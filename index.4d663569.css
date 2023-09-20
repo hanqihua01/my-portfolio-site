@@ -122,4 +122,16 @@ img.socialIcon {
   width: 30px;
 }
 
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
 /*# sourceMappingURL=index.4d663569.css.map */
